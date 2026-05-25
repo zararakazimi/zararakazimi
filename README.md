@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Zarara Kazimi 👋
+🎓 Telecommunication Engineering Graduate
+💻 Frontend Web Development Learner
 
-<!--
-**zararakazimi/zararakazimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###About Me
+currently learning react & Frontend Development
+intersted in UI Design & Web Applications
+Building Projects and improving every day
+love teamwork, communication and problem-solving
 
-Here are some ideas to get you started:
+###Skills
+HTML
+CSS
+JavaScript
+react
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Goals
+Build modern and responsive websites
+Grow as a Frontend Developer
