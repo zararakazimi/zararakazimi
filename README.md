@@ -15,5 +15,5 @@ JavaScript
 react
 
 ### Goals
-Build modern and responsive websites
+Build modern and responsive websites                                                     
 Grow as a Frontend Developer
