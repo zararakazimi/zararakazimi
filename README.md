@@ -9,9 +9,9 @@ Building Projects and improving every day
 love teamwork, communication and problem-solving
 
 ### Skills
-HTML
-CSS
-JavaScript
+HTML                                                                                     
+CSS                                                                                      
+JavaScript                                                                               
 react
 
 ### Goals
